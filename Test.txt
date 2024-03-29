@@ -1,2 +1,2 @@
 This for testing the feature
-line number 2
+To create a conflict
